@@ -32,7 +32,7 @@ openpose.py -- extracts the skeleton frames from the frames of the video and sto
 <br>
 dwt_boston104.py -- Dynamic time wrapping of wrists is done and a CSV file is made consisting of word and skeleton locations.<br>
 <br>
-training of gans are shown in https://github.com/saisriteja/sign-language-communication/blob/master/Scripts/Sentence_To_Skeleton/sign_language_sentence_to_video_generation.ipynb.
+training of gans are shown in https://github.com/mouryasashank/Sign_Language/blob/main/sign-language-communication-master/Scripts/Sentence_To_Skeleton/sign_language_sentence_to_video_generation.ipynb.
 <br>
 
 
